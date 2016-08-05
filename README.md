@@ -2,7 +2,8 @@
 
 ## Overview
 
-Displays a window list by workspaces and screens. Workspaces with a window marked URGENT turn red.
+Displays a window list by workspaces and screens, along with which workspaces are free (assuming workspaces 1-9).
+Workspaces with a window marked URGENT turn red.
 
 ![screenshot](https://github.com/dechandler/i3-blocklet_workspaces/raw/master/screenshot.png)
 
