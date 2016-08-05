@@ -4,7 +4,7 @@
 
 Displays a window list by workspaces and screens.
 
-![screenshot](https://cloud.githubusercontent.com/assets/5094374/17425586/7beffd06-5a94-11e6-8a7d-06068ce17441.png)
+![screenshot](https://github.com/dechandler/i3-blocklet_workspaces/raw/master/screenshot.png)
 
 ## Setup
 
