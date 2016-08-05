@@ -8,6 +8,8 @@ Displays a window list by workspaces and screens. Workspaces with a window marke
 
 ## Setup
 
+Depends on fontawesome and i3blocks 1.4+.
+
 Put the daemon and gen file someplace and edit the first few lines of workspaces_daemon.sh to reflect where you put things
 
 Start the daemon from your i3 config with the correct path and screens (the screen order is preserved)
